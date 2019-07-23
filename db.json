@@ -71,7 +71,8 @@
       "padding_horizontal": 20
     },
     "modules_banner": {
-      "background_color": "#806E6E6E"
+      "background_color": "#806E6E6E",
+      "is_modules_container": true
     },
     "bottom_banner": {
       "image_url": "https://kansaslivingmagazine.com/sites/default/files/styles/maximum/public/wyndham_hotel_group.jpg",
